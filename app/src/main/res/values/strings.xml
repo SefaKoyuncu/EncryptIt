@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">EncryptIt</string>
+    <string name="title">Welcome to</string>
+    <string name="appname">EncryptIt</string>
+    <string name="text1">Do you want someone to not understand the message when messaging with your friends ?</string>
+    <string name="text2">Encrypt your message and send. Only your friend reads and understand the message in the app.</string>
+    <string name="text3">Let\'s start using</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

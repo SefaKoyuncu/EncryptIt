@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/drawable/about_button.xml" value="0.125" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/drawable/button_next.xml" value="0.134" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/drawable/button_next_gray.xml" value="0.134" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/drawable/frame.xml" value="0.125" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/drawable/frame_edittext.xml" value="0.134" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/drawable/next.xml" value="0.134" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/layout/activity_base.xml" value="0.22" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/layout/activity_onboarding.xml" value="0.22" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/layout/activity_splash.xml" value="0.1573321932449765" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/layout/fragment_dec.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/layout/fragment_enc.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/layout/show_enc_text.xml" value="0.1573321932449765" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/EncryptionApp/app/src/main/res/layout/slider_layout.xml" value="0.16140350877192983" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
